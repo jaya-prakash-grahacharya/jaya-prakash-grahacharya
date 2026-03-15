@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Jaya Prakash Grahacharya</h1>
 <h3 align="center">A BTech CSE Student from India</h3>
 
-- 🌱 I’m currently learning **Full stack Python, Java**
+- 🌱 I’m currently learning **Full stack Python,**
 
 - 📫 How to reach me **jpgrahacharya@gmail.com**
 
